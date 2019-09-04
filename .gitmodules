@@ -1,6 +1,6 @@
-[submodule "word2vec-on-wikipedia"]
-	path = word2vec-on-wikipedia
-	url = https://github.com/khushsi/word2vec-on-wikipedia.git
 [submodule "wikiextractor"]
 	path = wikiextractor
 	url = https://github.com/khushsi/wikiextractor.git
+[submodule "allennlp"]
+	path = allennlp
+	url = https://github.com/khushsi/allennlp.git
